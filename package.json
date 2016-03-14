@@ -1,0 +1,19 @@
+{
+  "name": "pies",
+  "version": "0.1.0",
+  "description": "Package Infrastructures for ECMAScript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hax/pies.git"
+  },
+  "author": "HE Shi-Jun <johnhax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hax/pies/issues"
+  },
+  "homepage": "https://github.com/hax/pies#readme"
+}
